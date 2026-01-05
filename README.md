@@ -33,7 +33,8 @@ This implementation emphasizes correctness, extensibility, and realistic modelin
 ## Demo / Visualizations
 
 ### In-sample Trading Behavior
-![In-sample Trading Behavior](performance-png/in-sample-trading-behavior.png)
+<img src="performance-png/in-sample-trading-behavior.png" alt="In-sample Trading Behavior" width="400"/>
+
 
 ### Impact of Values on Trading Behavior
 ![Impact Values](impact-values-affect-in-sample-trading-behavior.png)
