@@ -1,4 +1,4 @@
-\# Machine Learning for Trading – Market Simulator
+## Machine Learning for Trading – Market Simulator
 
 
 
