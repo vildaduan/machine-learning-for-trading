@@ -35,18 +35,18 @@ This implementation emphasizes correctness, extensibility, and realistic modelin
 ### In-sample Trading Behavior
 <img src="performance-png/in-sample-trading-behavior.png" alt="In-sample Trading Behavior" width="800"/>
 
-
 ### Impact of Values on Trading Behavior
-![Impact Values](impact-values-affect-in-sample-trading-behavior.png)
+<img src="performance-png/impact-values-affect-in-sample-trading-behavior.png" alt="Impact Values" width="800"/>
 
 ### Comparison Between Trading Approaches
-![Comparison Between Approaches](in-sample-comparision-between-trading-approaches.png)
+<img src="performance-png/in-sample-comparision-between-trading-approaches.png" alt="Comparison Between Approaches" width="800"/>
 
 ### Performance Comparison: Manual vs Benchmark Strategy
-![Performance Comparison](in-sample-performance-comparision-manual-strategy-benchmark-strategy.png)
+<img src="performance-png/in-sample-performance-comparision-manual-strategy-benchmark-strategy.png" alt="Performance Comparison" width="800"/>
 
 ### Out-of-sample Comparison: Manual vs Q-learning Benchmark
-![Out-of-sample Comparison](out-of-sample-comparison-mannual-Q-learning-benchmark.png)
+<img src="performance-png/out-of-sample-comparison-mannual-Q-learning-benchmark.png" alt="Out-of-sample Comparison" width="800"/>
+
 
 ---
 
