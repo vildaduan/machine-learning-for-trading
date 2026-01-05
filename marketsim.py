@@ -1,31 +1,4 @@
-""""""  		  	   		 	 	 			  		 			     			  	 
-"""MC2-P1: Market simulator.  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
-Copyright 2018, Georgia Institute of Technology (Georgia Tech)  		  	   		 	 	 			  		 			     			  	 
-Atlanta, Georgia 30332  		  	   		 	 	 			  		 			     			  	 
-All Rights Reserved  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
-Template code for CS 4646/7646  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
-Georgia Tech asserts copyright ownership of this template and all derivative  		  	   		 	 	 			  		 			     			  	 
-works, including solutions to the projects assigned in this course. Students  		  	   		 	 	 			  		 			     			  	 
-and other users of this template code are advised not to share it with others  		  	   		 	 	 			  		 			     			  	 
-or to make it available on publicly viewable websites including repositories  		  	   		 	 	 			  		 			     			  	 
-such as github and gitlab.  This copyright statement should not be removed  		  	   		 	 	 			  		 			     			  	 
-or edited.  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
-We do grant permission to share solutions privately with non-students such  		  	   		 	 	 			  		 			     			  	 
-as potential employers. However, sharing with other current or future  		  	   		 	 	 			  		 			     			  	 
-students of CS 7646 is prohibited and subject to being investigated as a  		  	   		 	 	 			  		 			     			  	 
-GT honor code violation.  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
------do not edit anything above this line---  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
-Student Name: Tucker Balch (replace with your name)  		  	   		 	 	 			  		 			     			  	 
-GT User ID: tb34 (replace with your User ID)  		  	   		 	 	 			  		 			     			  	 
-GT ID: 900897987 (replace with your GT ID)  		  	   		 	 	 			  		 			     			  	 
-"""  		  	   		 	 	 			  		 			     			  	 
-  		  	   		 	 	 			  		 			     			  	 
+ 			     			  	 
 import datetime as dt  		  	   		 	 	 			  		 			     			  	 
 import os  		  	   		 	 	 			  		 			     			  	 
   		  	   		 	 	 			  		 			     			  	 
@@ -44,7 +17,7 @@ def author():
     :return: The GT username of the student
     :rtype: str
     """
-    return "wduan35"  # replace tb34 with your Georgia Tech username.
+    return ""  # replace tb34 with your Georgia Tech username.
 
 
 def gtid():
@@ -52,7 +25,7 @@ def gtid():
     :return: The GT ID of the student
     :rtype: int
     """
-    return 903837798  # replace with your GT ID number
+    return  # replace with your GT ID number
 
 def compute_portvals(
     orders_file="./orders/orders.csv",
