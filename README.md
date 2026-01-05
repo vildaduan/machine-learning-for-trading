@@ -5,7 +5,7 @@
 This project is part of a larger system that incrementally builds an AI-based trading platform using machine learning and algorithmic trading techniques. Each component contributes to a unified trading system designed to simulate real-world decision-making and portfolio management.
 
 
-In this phase, the focus is on developing a \*\*market simulator\*\* that processes trading orders, tracks portfolio value over time, and evaluates portfolio performance. This simulator serves as a foundational component for more advanced trading strategies and models implemented in later stages of the system.
+In this phase, the focus is on developing a market simulator that processes trading orders, tracks portfolio value over time, and evaluates portfolio performance. This simulator serves as a foundational component for more advanced trading strategies and models implemented in later stages of the system.
 
 
 ## Project Overview
