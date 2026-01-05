@@ -31,12 +31,12 @@ This implementation emphasizes correctness, extensibility, and realistic modelin
 
 ## Objectives
 
-\- \*\*Market Simulation\*\*  
+Market Simulation
 
 &nbsp; Design and implement a market simulator capable of handling trading orders and portfolio updates.
 
 
-\- \*\*Transaction Costs\*\*  
+Transaction Costs
 
 &nbsp; Model real-world trading costs and understand their impact on portfolio performance.
 
